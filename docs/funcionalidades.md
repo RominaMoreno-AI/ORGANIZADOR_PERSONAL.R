@@ -6,3 +6,4 @@
 - Marcar tareas como terminadas.
 - Registrar notas.
 - Eliminar tareas o notas que ya no sean necesarias.
+- Asignar fechas límite a las tareas.
