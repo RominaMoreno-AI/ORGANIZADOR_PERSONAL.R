@@ -43,3 +43,5 @@ Proyecto en fase inicial: estructura base creada, entorno configurado y document
 
 ## Colaboración
 Este proyecto acepta contribuciones mediante fork y Pull Request. Antes de proponer un cambio, crea una rama a partir de main, realiza tus modificaciones y describe claramente qué agregaste o corregiste en la descripción del Pull Request.
+
+Como parte de esta colaboración, se agregó el archivo `docs/recomendaciones.md` con propuestas para mejorar futuras versiones del proyecto.
