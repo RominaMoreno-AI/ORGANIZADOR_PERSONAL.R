@@ -36,7 +36,7 @@ Aplicación en desarrollo cuyo propósito es administrar tareas y notas personal
 (Ver requirements.txt para las versiones exactas.)
 
 ## Autor
-Nombre del estudiante
+Romina Moreno Ramos
 
 ## Estado
 Proyecto en fase inicial: estructura base creada, entorno configurado y documentación en construcción.
